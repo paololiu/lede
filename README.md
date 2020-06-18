@@ -1,4 +1,4 @@
-欢迎来到Lean的Openwrt源码仓库！
+转自：https://github.com/coolsnowwolf/lede
 =
 Welcome to Lean's  git source of OpenWrt and packages
 =
