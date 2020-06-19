@@ -34,6 +34,7 @@ sudo apt-get -y install build-essential asciidoc binutils bzip2 gawk gettext git
 
 
 二次编译：
+-
 ```bash
 cd lede
 git pull
